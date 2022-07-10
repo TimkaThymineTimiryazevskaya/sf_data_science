@@ -11,4 +11,4 @@ while predict_number != number:
     elif predict_number < number:
         predict_number = predict_number//2 + predict_number
 
-print(f"Вы угадали число! Это число = {number}, за {count} попыток")
+print(count)
